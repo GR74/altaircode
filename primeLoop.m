@@ -4,7 +4,7 @@ tic;
 
 subst='.bdf';
 
-dirName = '"C:\Users\gowri\OneDrive\Documents\MATLAB\soarData"';
+dirName = 'C:\Users\gowri\OneDrive\Documents\MATLAB\soarData';
 
 numErn=1;
 numLst=1;
@@ -22,9 +22,9 @@ raw_eventlist_savepath= strcat(dirName,'\eventList\');
 
 processed_eventlist_savepath= strcat(dirName,'\procEventList\');
 
-binlisterPathErn = 'C:\Users\John\Documents\MATLAB\soarEtl\currentSoar\GorkaBinlister.txt';
-binListerPathLst = 'C:\Users\John\Documents\MATLAB\soarEtl\currentSoar\LstBinlister.txt';
-binListerPathNpu = 'C:\Users\John\Documents\MATLAB\soarEtl\currentSoar\NpuBinlister.txt';
+binlisterPathErn = 'C:\Users\gowri\OneDrive\Documents\MATLAB\soarEtl\currentSoar\GorkaBinlister.txt';
+binListerPathLst = 'C:\Users\gowri\OneDrive\Documents\MATLAB\soarEtl\currentSoar\LstBinlister.txt';
+binListerPathNpu = 'C:\Users\gowri\OneDrive\Documents\MATLAB\soarEtl\currentSoar\NpuBinlister.txt';
 
 % channelLocationFile: this path is found in your eeglab dipfit plugin folder: eeglab\plugins\dipfit\standard_BESA\standard-10-5-cap385.elp
 channelLocationFile = 'C:\Users\John\Documents\MATLAB\eeglab2021.1\plugins\dipfit\standard_BESA\standard-10-5-cap385.elp';

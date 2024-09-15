@@ -4,7 +4,7 @@ tic;
 
 subst='.bdf';
 
-dirName = 'C:\Users\John\Documents\MATLAB\soarData\';
+dirName = '"C:\Users\gowri\OneDrive\Documents\MATLAB\soarData"';
 
 numErn=1;
 numLst=1;

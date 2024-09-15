@@ -27,7 +27,7 @@ binListerPathLst = 'C:\Users\gowri\OneDrive\Documents\MATLAB\soarEtl\currentSoar
 binListerPathNpu = 'C:\Users\gowri\OneDrive\Documents\MATLAB\soarEtl\currentSoar\NpuBinlister.txt';
 
 % channelLocationFile: this path is found in your eeglab dipfit plugin folder: eeglab\plugins\dipfit\standard_BESA\standard-10-5-cap385.elp
-channelLocationFile = 'C:\Users\John\Documents\MATLAB\eeglab2021.1\plugins\dipfit\standard_BESA\standard-10-5-cap385.elp';
+channelLocationFile = 'C:\Users\gowri\OneDrive\Documents\MATLAB\eeglab2024.2\plugins\dipfit\standard_BESA\standard-10-5-cap385.elp';
 
 xx=readlocs(channelLocationFile);
 

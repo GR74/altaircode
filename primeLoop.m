@@ -35,7 +35,7 @@ namesErn={};
 namesLst={};
 namesNpu={};
 
-fName='OSU-00001-04B-01';
+fName='OSU-00003-04A-02';
 nName=strcat(fName,'-NPU.bdf');
 lName=strcat(fName,'-LST.bdf');
 eName=strcat(fName,'-ERN.bdf');
